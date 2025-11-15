@@ -6,7 +6,7 @@ O projeto foi criado para demonstrar a aplicação de conceitos de **Programaç�
 
 ---
 
-## ✨ Funcionalidades
+## 📌 Funcionalidades
 
 O sistema foi concebido para gerenciar informações de usuários (moradores ou administradores) em um condomínio. As principais funcionalidades implementadas são:
 
